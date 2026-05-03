@@ -1,0 +1,8 @@
+{
+  "name": "Super Intelligent Core™",
+  "description": "A 2026-ready Scientific Intelligence App integrating AI, cognitive science, philosophy, and strategic research for deep intellectual growth.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
